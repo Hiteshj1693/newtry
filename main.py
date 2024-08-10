@@ -1,2 +1,2 @@
 print("main")
-print("1")aa
+print("1")
